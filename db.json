@@ -1,0 +1,19 @@
+{
+  "prestations": [
+    {
+      "titre": "Allocation aux adultes handicapés",
+      "description": "L'allocation aux adultes handicapés (AAH) est une aide financière qui permet d'assurer un minimum de ressources. Cette aide est attribuée sous réserve de respecter des critères d’incapacité, d'âge, de résidence et de ressources. Elle est accordée sur décision de la commission des droits et de l'autonomie des personnes handicapées (CDAPH). Son montant vient compléter les éventuelles autres ressources de la personne en situation de handicap.",
+      "catégories": {
+          "législation": [ {
+            "titre section" : "Conditions d'attribution",
+            "contenu section" : "Avoir au moins 20 ans (ou avant 20 ans si la personne n'est plus à charge de ses parents au sens des prestations familiales). Avoir une incapacité appréciée par la Cdaph. Faire valoir prioritairement ses droits à un avantage vieillesse, invalidité ou At. Disposer pour le trimestre ou pour l'année de référence (N-2) de ressources inférieures à un plafond Consulter les barèmes (droit éventuel à une différentielle) et/ou percevoir un avantage vieillesse, invalidité ou At dont le montant est inférieur à l'Aah. Résider en France et être en possession d'un titre de séjour en cours de validité pour les étrangers ou disposer d'un droit au séjour pour les communautaires et suisses."
+          },
+          {
+            "titre section" : "Ouverture de droit",
+            "contenu section" : "le dépôt de la demande auprès de la Cdaph, le 20ème anniversaire du bénéficiaire d'Aeeh si une demande d'Aah a été déposée antérieurement."
+          }
+        ]
+      }
+    }
+  ]
+}
